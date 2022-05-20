@@ -10,3 +10,4 @@ run `make` first. Input is in `input.txt`.
 2. C++
 3. Javascript
 4. Python
+5. Java
