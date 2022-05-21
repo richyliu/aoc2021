@@ -11,3 +11,4 @@ run `make` first. Input is in `input.txt`.
 3. Javascript
 4. Python
 5. Java
+6. Bash
