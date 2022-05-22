@@ -12,3 +12,4 @@ run `make` first. Input is in `input.txt`.
 4. Python
 5. Java
 6. Bash
+7. PHP
