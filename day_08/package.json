@@ -1,0 +1,14 @@
+{
+  "name": "day_08",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "part1": "npx ts-node part1.ts",
+    "part2": "npx ts-node part2.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.8.0"
+  }
+}
