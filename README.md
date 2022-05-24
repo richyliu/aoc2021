@@ -13,3 +13,5 @@ run `make` first. Input is in `input.txt`.
 5. Java
 6. Bash
 7. PHP
+8. Typescript
+9. Rust
