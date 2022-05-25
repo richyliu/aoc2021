@@ -15,3 +15,4 @@ run `make` first. Input is in `input.txt`.
 7. PHP
 8. Typescript
 9. Rust
+10. Haskell
