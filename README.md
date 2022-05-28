@@ -18,3 +18,4 @@ run `make` first. Input is in `input.txt`.
 10. Haskell
 11. Lua
 12. Common Lisp
+13. R
