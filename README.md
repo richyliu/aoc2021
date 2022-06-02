@@ -23,3 +23,4 @@ run `make` first. Input is in `input.txt`.
 15. Powershell
 16. Processing
 17. Mathematica
+18. Racket
