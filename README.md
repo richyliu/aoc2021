@@ -22,3 +22,4 @@ run `make` first. Input is in `input.txt`.
 14. x86 assembly
 15. Powershell
 16. Processing
+17. Mathematica
