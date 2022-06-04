@@ -24,3 +24,4 @@ run `make` first. Input is in `input.txt`.
 16. Processing
 17. Mathematica
 18. Racket
+19. Ruby
