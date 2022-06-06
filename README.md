@@ -26,3 +26,4 @@ run `make` first. Input is in `input.txt`.
 18. Racket
 19. Ruby
 20. Awk
+21. Go
