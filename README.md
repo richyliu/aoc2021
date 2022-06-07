@@ -27,3 +27,4 @@ run `make` first. Input is in `input.txt`.
 19. Ruby
 20. Awk
 21. Go
+22. Swift
