@@ -30,3 +30,4 @@ run `make` first. Input is in `input.txt`.
 22. Swift
 23. Elixir
 24. Microsoft Excel
+25. Perl
